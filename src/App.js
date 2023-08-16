@@ -10,13 +10,13 @@ import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCMDIcXRy_95DrzD9kSo_GxJl96de4aGO4",
-  authDomain: "chatpwc-711a0.firebaseapp.com",
-  projectId: "chatpwc-711a0",
-  storageBucket: "chatpwc-711a0.appspot.com",
-  messagingSenderId: "267904903784",
-  appId: "1:267904903784:web:ff798092b254746f9869dd",
-  measurementId: "G-YYWSS26VD1"
+  apiKey: "AIzaSyDTlmGDP-CFvQ7Q7SFl0mO_0v1gBvJzA8Y",
+  authDomain: "privatepwc.firebaseapp.com",
+  projectId: "privatepwc",
+  storageBucket: "privatepwc.appspot.com",
+  messagingSenderId: "16165157516",
+  appId: "1:16165157516:web:f92a13dd1b9a57082459a9",
+  measurementId: "G-VTM1RWF9CV"
 })
 
 const auth = firebase.auth();
